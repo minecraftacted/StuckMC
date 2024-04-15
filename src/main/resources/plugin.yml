@@ -1,0 +1,7 @@
+name: StuckMC
+version: '${project.version}'
+main: si.f5.actedmc.stuckmc.StuckMC
+api-version: '1.20'
+commands:
+  stuck:
+    description: Back to world spawn
